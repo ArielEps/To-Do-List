@@ -1,0 +1,5 @@
+.MainDisplay {
+  background-color: #131313;
+  display: flex;
+  flex-direction: column;
+}
