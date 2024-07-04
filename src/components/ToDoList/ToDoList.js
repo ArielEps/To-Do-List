@@ -1,6 +1,5 @@
 import "./ToDoList.css";
 import Item from "../Item/Item";
-import Button from "../Button/Button";
 
 export default function ToDoList() {
   return (
@@ -8,9 +7,6 @@ export default function ToDoList() {
       <Item />
       <Item />
       <Item />
-      <Item />
-
-      <Button>Add Todo</Button>
     </div>
   );
 }
